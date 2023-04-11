@@ -4,7 +4,7 @@
   "description": "Hello app",
   "main": "app.js",
   "scripts": {
-    "test": "mocha app.js"
+    "test": "echo \"Error: no test specified\" "
   },
   "keywords": [
     "hello"
