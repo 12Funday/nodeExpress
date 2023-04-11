@@ -4,7 +4,7 @@
   "description": "Hello app",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "mocha --reporter list"
   },
   "keywords": [
     "hello"
